@@ -1,11 +1,14 @@
 
 
+<p align="center">
+<samp> Hi there 👋 Swati Arya here!
+</samp>
+</p>
 
-## Hi there 👋 Swati Arya here!
-
+<p align="center">
 Nice to See Ya!! 🖖
-
-<p align="left">
+</p>
+<p align="center">
   <img src="image.gif" alt="GIF" width="400"/>
 </p>
 
