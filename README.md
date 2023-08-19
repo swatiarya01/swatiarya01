@@ -1,4 +1,5 @@
 ## Hi there 👋 Swati Arya here!
+
 Nice to see ya!
 #### 🌟 My Data Adventure
 
@@ -8,12 +9,12 @@ Nice to see ya!
 
 📈 Bridging the gap between data and intelligence fuels my curiosity. Whether it's crafting AI solutions or diving into deep learning, I'm committed to pushing the boundaries of what's possible.
 
-🌐 Let's learn and innovate together! Connect with me on [LinkedIn](https://www.linkedin.com/in/swati-arya-182351192/) to explore the world of AI and data science.
 
-### Get in Touch
 
-- 📧 Email: arya.swati.01@gmail.com
-- 💼 LinkedIn: [Arya's Profile](https://www.linkedin.com/in/swati-arya-182351192/)
+📬 Reach out via <a href="arya.swati.01@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/swati-arya-182351192/">LinkedIn</a>.<br>
+  🌟 Let's <b>turn data into action</b> and shape the future of AI!
+
+
 
 
 <!--
