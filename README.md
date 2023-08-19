@@ -1,8 +1,11 @@
 ## Hi there 👋 Swati Arya here!
-<p align="center">
-  <img src="https://gfycat.com/piercinglimpcopperhead.gif" alt="GIF" width="400" />
+
+Nice to See Ya!! 🖖
+
+<p align="left">
+  <img src="image.gif" alt="GIF" width="400" />
 </p>
-Nice to see ya!
+
 #### 🌟 My Data Adventure
 
 🔍 I'm on a mission to decode data and unlock insights. From crunching numbers to building predictive models, I'm passionate about turning information into actionable intelligence.
@@ -13,23 +16,20 @@ Nice to see ya!
 
 
 
+<!-- GitHub Contribution Graph -->
+## GitHub Contribution Graph
+
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=swatiarya01)
+
+<!-- GitHub Stats -->
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatiarya01&show_icons=true&count_private=true)
+
+<!-- Top Languages Used -->
+## Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiarya01&layout=compact)
+
 📬 Reach out via <a href="arya.swati.01@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/swati-arya-182351192/">LinkedIn</a>.<br>
   🌟 Let's <b>turn data into action</b> and shape the future of AI!
-
-
-
-
-<!--
-**swatiarya01/swatiarya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
