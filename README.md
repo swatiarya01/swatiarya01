@@ -1,5 +1,7 @@
 ## Hi there 👋 Swati Arya here!
-
+<p align="center">
+  <img src="https://gfycat.com/piercinglimpcopperhead.gif" alt="GIF" width="400" />
+</p>
 Nice to see ya!
 #### 🌟 My Data Adventure
 
