@@ -1,9 +1,12 @@
+
+
+
 ## Hi there 👋 Swati Arya here!
 
 Nice to See Ya!! 🖖
 
 <p align="left">
-  <img src="image.gif" alt="GIF" width="400" />
+  <img src="image.gif" alt="GIF" width="400"/>
 </p>
 
 #### 🌟 My Data Adventure
@@ -19,17 +22,26 @@ Nice to See Ya!! 🖖
 <!-- GitHub Contribution Graph -->
 ## GitHub Contribution Graph
 
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=swatiarya01)
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=swatiarya01&theme=dark)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatiarya01&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatiarya01&show_icons=true&count_private=true&theme=dark)
 
 <!-- Top Languages Used -->
 ## Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiarya01&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiarya01&layout=compact&theme=dark)
+
+
+
+
+
+
+
+
+
 
 📬 Reach out via <a href="arya.swati.01@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/swati-arya-182351192/">LinkedIn</a>.<br>
   🌟 Let's <b>turn data into action</b> and shape the future of AI!
