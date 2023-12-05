@@ -8,9 +8,9 @@
 <p align="center">
 Nice to See Ya!! 🖖
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="image.gif" alt="GIF" width="400"/>
-</p>
+</p> -->
 
 #### 🌟 My Data Adventure
 
